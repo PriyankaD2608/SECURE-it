@@ -2,7 +2,7 @@
 
 SECURE-it is an advanced digital shield designed to intercept digital fraud before it reaches your wallet. Built with privacy and speed in mind, it provides ultra-lightweight overlay protection and AI risk detection for UPI transactions.
 
-## 🚀 Features
+##  Features
 
 - **Bank Grade Security**: Instant defense against phishing and spoofed links.
 - **Zero Data Logs**: All analysis happens locally; we never read your private chats.
@@ -10,7 +10,7 @@ SECURE-it is an advanced digital shield designed to intercept digital fraud befo
 - **Universal Support**: Works seamlessly across all major UPI applications.
 - **AI Risk Engine**: Leverages federated learning to identify zero-day phishing patterns.
 
-## 📁 Project Structure
+##  Project Structure
 
 This project uses a clean and professional Vite architecture for an optimized development experience:
 
@@ -18,7 +18,7 @@ This project uses a clean and professional Vite architecture for an optimized de
 - `src/`: Application source code (`main.js`, `style.css`)
 - `public/`: Static assets (`infra-servers.png`)
 
-## 💻 Setup and Development
+##  Setup and Development
 
 1. **Install Dependencies**:
    ```bash
